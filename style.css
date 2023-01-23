@@ -121,14 +121,6 @@ button.primary.outline {
   padding: 7px;
 }
 
-a i {
-  color: white !important;
-}
-
-i {
-  color: white !important;
-}
-
-.fa-brands {
+.social-media a {
   color: white !important;
 }
